@@ -7,114 +7,129 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Gabriel Martin Hernandez
+    tagline: Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: 
+    phone: 
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: gabriel-m-06691584
+    github: gabrielmartinh
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: ''
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Portuguese
         level: Professional
-
+      
     interests:
-      - item: Climbing
+      - item: Machine Learning
         link:
 
-      - item: Snowboarding
+      - item: Deep Learning
         link:
 
-      - item: Cooking
+      - item: Computer architectures
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Gabriel is a Phd. in Computer Engineering, data scientist and machine learning engineer. He is a experienced 
+      developer in python, matlab, golang, c/c++, shellscript and GPU programming with CUDA. He is currently 
+      working as a performance analytics engineer, defining and implementing a recommendation system for 
+      Atrio Compousable Cloud. The technologies that Gabriel uses in his daily work include containers 
+      (docker and singularity), different kind of databases, that is, relational (SQL), time series (influxdb) 
+      and non-relational (MongoDB) as well as different data analysis and machine learning libraries such as 
+      pandas, scikit-learn or matplotlib.  Gabriel received the PhD degree in Computer Engineering from the 
+      University of Extremadura, Caceres, Spain, in 2013. He has obtained several prices for his PhD. dissertation 
+      such as the "Best Iberian PhD. Dissertation in Information System and Technologies" awarded by the 
+      Iberian Association for Information Systems and Technologies, and the "Outstanding PhD Dissertation award"
+      by the University of Extremadura.  He is interested in expanding his education into Big Data analysis with 
+      Spark and cloud computing with certifications in AWS, GCP and Azure.
+      He was a Predoctoral Research Associate (funded by the Spanish Ministry of Science and Innovation) 
+      with the Hyperspectral Computing Laboratory and Postdoctoral Researcher  in "Instituto de Telecomunicaçoes" 
+      Lisbon, Portugal, where he developed of new techniques for unmixing and compressive sensing of 
+      hyperspectral images, and performed research about efficient processing of these images in GPUs. He is
+      co-author of a patent about a portable performance analytics system. He has authored or co-authored more
+      than 60 publications, including several book chapters, journal citation report (JCR) papers and 
+      peer-reviewed international conference papers. For a full detailed list of contributions please visit 
+      his google scholar profile: https://scholar.google.com/citations?user=BlOiITwAAAAJ 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD. in Computing and Comunications Technologies
+      university: University of Extremadura
+      time: 2010 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Design and implementation of new methods for spatial preprocessing prior to spectral unmixing of
+        remotely sensed hyperspectral data.
+
+    - degree: Msc in Research of information and Comunications Technologies
+      university: University of Extremadura
+      time: 2009 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Parallel computing for image processing.
+          - Gird computing, Supercomputing and Parallelism.
+          - Advanced Information and Communication Systems.
+
+    - degree: Msc in Computer Science Engineering
+      university: University of Extremadura
+      time: 2006 - 2009
+      details: |
+          - Distributed and parallel programming.
+          - Computers Architecture.
+          - Software Engineering.
+          - Computer Networks.
+
+    - degree: Bsc in Computer Science
+      university: University of Extremadura
+      time: 2002 - 2006
+      details: |
+          - Programming.
+          - Data structures and algorithms.
+          - Computers Engineering.
+          - Networks systems.
+          - Databases management systems.
+          - Software Engineering.
+          - Operating systems.
+      
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Research Associate
+      time: Jun 2020 - Present
+      company: Cambridge University, Department of Engineering
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Senior Research Associate at the Civil Engineering department in the Liang O'Rourke Center 
+        of Construction and Technology, performing research about monitoring civil infrastructures 
+        with remote sensing for earth observation techniques.
+
+    - role: Senior Analytics Performance Engineer
+      time: 2018 - 2020
+      company: Atrio Inc., San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
+        - Definition and implementation of solutions for performance data gathering. (perf, telegraf)
+        - Definition and implementation of solutions for performance data storage. (influxdb, mongodb, postgreSQL)
+        - Definition and implementaiton of new machine learning models for performance data analysis. (python pandas, scikit-learn, matlab)
+
+    - role: Performance Analytics Engineer
+      time: 2017 - 2018
       company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Definition and implementation of solutions for performance data gathering. (perf, telegraf)
+        - Definition and implementation of solutions for performance data storage. (influxdb, postgreSQL)
+        - Definition and implementaiton of new machine learning models for performance data analysis. (python pandas, scikit-learn, matlab)
+        
 projects:
     title: Projects
     intro: >
