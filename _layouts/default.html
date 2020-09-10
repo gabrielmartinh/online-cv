@@ -8,12 +8,17 @@
 {% include head.html %}
 
 <body>
+  
   <div class="wrapper">
     {% include sidebar.html %}
+    <div class="topnav">
+      {% include topnav.html %}
+    </div> 
 
     <div class="main-wrapper">
         {{ content }}
     </div>
+    
   </div>
 
   {% include footer.html %}
